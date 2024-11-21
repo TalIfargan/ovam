@@ -17,7 +17,8 @@ dependencies = [
     "safetensors",
     "numpy",
     "matplotlib",
-    "SimpleCRF"
+    "SimpleCRF",
+    "huggingface-hub==0.25.2",
 ]
 authors = [
     {name="Pablo Marcos-Manchón", email="pmarcos@ub.edu"}
