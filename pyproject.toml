@@ -19,6 +19,7 @@ dependencies = [
     "matplotlib",
     "SimpleCRF",
     "huggingface-hub==0.25.2",
+    "jax==0.4.23",
 ]
 authors = [
     {name="Pablo Marcos-Manchón", email="pmarcos@ub.edu"}
